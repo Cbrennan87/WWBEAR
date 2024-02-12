@@ -1,4 +1,4 @@
-﻿Task,ID,Location,Date,Target,CT,Stock,VCollect,Vconc1,Vconc2,VHUHF,VBuffer,VRNAExtract,Vlysate,Vshield,VRNAelution,VRNAPCR,VPCR,DF,VRT1,VRT2,,,,,
+﻿Task,ID,Location,Date,Target,CT,Stock,VCollect,Vconc1,Vconc2,VHUHF,VBuffer,VRNAExtract,Vlysate,Vshield,VRNAelution,VRNAPCR,VPCR,DF,VRT1,VRT2,
 Spiked,1,Location 2,1/9/2021,BCOV,22.4,,1000,45,1.65,200,3.15,200,14,275,100,2.5,10,1,6,25,,,,,
 Spiked,1,Location 2,1/9/2021,BCOV,22.4,,1000,45,1.65,200,3.15,200,14,275,100,2.5,10,1,6,25,,,,,
 Sample,1,Location 2,1/9/2021,Disease1,33.7,,1000,45,1.65,200,3.15,200,14,275,100,2.5,10,1,6,25,,,,,
